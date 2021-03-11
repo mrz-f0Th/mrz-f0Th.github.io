@@ -1,0 +1,17 @@
+.jumbotron {
+    padding-top: 3rem;
+}
+
+section {
+    padding-top: 6rem !important;
+}
+
+.destruct {
+    display: inline-block;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.destruct:hover {
+    transform: scale(1.1) translateY(-10px);
+}
